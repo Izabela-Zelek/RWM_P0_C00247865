@@ -1,0 +1,7 @@
+{
+  "name": "ie.setu.factfilter",
+  "version": "0.1.0",
+  "displayName": "FactFilter",
+  "description": "A filter that gets the factorial",
+  "unity": "2021.3"
+}
